@@ -6,7 +6,7 @@ I document my learnings from the https://guides.github.com/activities/hello-worl
 - Completing a web form with values for Repository name, *hello-world*, and value for Description *I document my learnings from the https://guides.github.com/activities/hello-world/ guide here.* (I suppose this was the description of the repository - a concept I'm yet to truly appreciate.)
 - I check the *Initialise this repository with a README* checkbox.
 - I select the *Create repository* button.
-2. I observe the https://github.com/jeni-baby/hello-world/tree/master page that loads after creating a repository, noting:
+2. I observe the https://github.com/jeni-baby/hello-world/tree/master page (I've noticed that https://github.com/jeni-baby/hello-world is the page that shows the number of commits. I'm not sure what that means about this observation.) that loads after creating a repository, noting:
 - I saw the description I had entered. I saw the URL was rendered clickable.
 - I noticed the jeny-baby/hello-world thing. I don't quite know what this means. Is jeny-baby a namespace in which the hello-world project exists?
 - There's a dropdown in for branches. It contained only master branch at this time.
